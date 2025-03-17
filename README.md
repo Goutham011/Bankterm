@@ -73,8 +73,3 @@ The best-performing model in this project is CatBoost with a CV Mean Accuracy of
 
 ## ✒️ Your Signature
 Goutham sai Goparaju
-
-GitHub: [https://www.github.com/adi271001](https://www.github.com/adi271001)  
-LinkedIn: [https://www.linkedin.com/in/aditya-d-23453a179/](https://www.linkedin.com/in/aditya-d-23453a179/)  
-Topmate: [https://topmate.io/aditya_d/](https://topmate.io/aditya_d/)  
-Twitter: [https://x.com/ADITYAD29257528](https://x.com/ADITYAD29257528)

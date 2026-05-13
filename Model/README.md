@@ -25,9 +25,4 @@
 | Gaussian Naive Bayes    | 73.92%         | 73.58%           | 74.56%        |
 
 ## ✒️ Your Signature
-Aditya D
-
-GitHub: [https://www.github.com/adi271001](https://www.github.com/adi271001)  
-LinkedIn: [https://www.linkedin.com/in/aditya-d-23453a179/](https://www.linkedin.com/in/aditya-d-23453a179/)  
-Topmate: [https://topmate.io/aditya_d/](https://topmate.io/aditya_d/)  
-Twitter: [https://x.com/ADITYAD29257528](https://x.com/ADITYAD29257528)
+Goutham sai
